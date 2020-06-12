@@ -12,5 +12,5 @@ should not have to copy code from one class to other instead in this class can i
 Apart from that in our application we keep our code neat and clean so that the code is readable to others.
 In this we also used methods and in our app there is no need for the condional execution so this 
 shows polyorphism. We only give the main details rathar providing unneccesary information this 
-shows abstraction.This app is safe and no one can misuse the data so this shows the cocept of Encapsulation
+shows abstraction.This app is safe and no one can misuse the data so this shows the concept of Encapsulation
 
